@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/118016226/7cadf423-09bd-4a7d-92f5-a92d39be9c53" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/118016226/7cadf423-09bd-4a7d-92f5-a92d39be9c53" alt="Illustration" title="Illustration Storyset" width=350/>
     
 <h1 align="left">Hi 👋🏽, I'm Júlia Nascimento</h1>
 
