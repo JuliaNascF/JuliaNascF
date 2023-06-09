@@ -35,7 +35,7 @@ ___
 <div>
   <h3>📱 Social Medias:</h3><br>
     <a href="https://www.linkedin.com/in/j%C3%BAlia-nascimento-890a1a223/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqtLDzgvRtjdsBvLzbPFwNGhQRzrVDcsrLrPVbwZtJBsHrfpSXkHwqkNFsRhWskWdhwPg(mailto:jubilete.fazenda12@gmail.com)" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="GMAIL"></a>
+      <a href="mailto:jubilete.fazenda12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="GMAIL"></a>
 
  
 </div>
